@@ -1,6 +1,7 @@
 ## Occupation
 
-I am a Front-end Web Developer for CSUN META+LAB.  
+I am a Front-end Web Developer for CSUN META+LAB. 
+![META+LAB Logo](https://avatars1.githubusercontent.com/u/11095982?v=3&s=200)
 
 ## Hobbies
 
